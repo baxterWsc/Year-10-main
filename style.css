@@ -1,11 +1,15 @@
 p{
     font-size: 20px;
-    color: B2B2B2;
+    color: #B2B2B2;
 }
-h4{font-size: 25px;}
-h1{font-size: 200px;}
-h2{font-size: 40px;}
-h5{font-size: 50px;}
+h4{font-size: 25px;
+    color: #B2B2B2}
+h1{font-size: 200px;
+    color: #B2B2B2}
+h2{font-size: 40px;
+    color: #B2B2B2}
+h5{font-size: 50px;
+    color: #B2B2B2}
 p {
     line-height: 1.2;
     font-family: sans-serif;
